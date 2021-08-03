@@ -1,0 +1,11 @@
+(\.|^)austinhurlburt.com$
+(\.|^)austinpetersenhays.com$
+(\.|^)austinrph.com$
+(\.|^)hhub.cloud$
+(\.|^)hhub.in$
+(\.|^)hurlburt.cloud$
+(\.|^)hurlburt.family$
+(\.|^)hurlburthub.com$
+(\.|^)justinhurlburt.com$
+(\.|^)sponi.net$
+(\.|^)thestins.family$
